@@ -1,6 +1,6 @@
 pipeline {
     agent any
-//s
+
     stages {
         stage('Hello') {
             steps {
